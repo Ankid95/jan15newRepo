@@ -9,5 +9,7 @@ public class Jan15newclass {
 
 	public static void run() {
 		System.out.println("run is running!");
+		System.out.println("hi");
 	}
+	
 }

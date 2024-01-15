@@ -12,4 +12,8 @@ public class Jan15newclass {
 		System.out.println("hi");
 	}
 	
+	public static void run2() {
+		System.out.println("Creating Branch");
+	
+	}
 }
